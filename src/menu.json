@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tomato Fresh Basil Pizza",
+    "description": "A classic combination of tomato and basil.",
+    "category": "Pizza"
+  },
+  {
+    "name": "Chicken Pesto Pizza",
+    "description": "A savory chicken and pesto combination.",
+    "category": "Pizza"
+  },
+  {
+    "name": "Meat Lovers Pizza",
+    "description": "A hearty choice for meat lovers.",
+    "category": "Pizza"
+  },
+  {
+    "name": "Kabylo’s House Veggie Pizza",
+    "description": "A vegetable-focused house specialty.",
+    "category": "Pizza"
+  },
+  {
+    "name": "Buffalo Chicken Pizza",
+    "description": "A bold buffalo chicken favorite.",
+    "category": "Pizza"
+  },
+  {
+    "name": "Cheese Calzone",
+    "description": "A folded pizza classic with marinara on the side.",
+    "category": "Calzones"
+  }
+]
